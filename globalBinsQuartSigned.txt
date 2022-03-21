@@ -1,0 +1,41 @@
+bin 1
+
+LoCohQ1
+
+.{101}
+
+bin 2
+
+LoCohQ2
+
+.{102}
+
+bin 3
+
+LoCohQ3
+
+.{103}
+
+bin 4
+
+LoCohQ4
+
+.{104}
+
+bin 5
+
+HiCoh
+
+.{105}
+
+bin 6
+
+LoCohErr
+
+.{106}
+
+bin 7
+
+NegCurv
+
+.{100}
