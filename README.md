@@ -1,5 +1,9 @@
 # COM_EEG
-EEG processing pipeline
+## EEG processing pipeline
+### Start with the processing scripts folder
+
+
+
 
 	•	Run ‘PreProcSignedQuartFinal.m’
 	•	Set variables to do appropriate time-locking and/or extend window width for TF analyses
